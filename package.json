@@ -34,7 +34,7 @@
     "classnames": "^2.2.6",
     "prop-types": "^15.7.2",
     "ra-custom-confirm": "^1.1.1",
-    "ra-ui-materialui": "^3.13.1",
+    "ra-ui-materialui": "^5.4.3",
     "recompose": "^0.30.0"
   },
   "devDependencies": {
